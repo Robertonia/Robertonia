@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robertonia, I live in Santiago de Chile.
+- 👋 Hi, I’m Roberto Zenteno Sessa (@Robertonia), I live in Santiago de Chile.
 - 👀 I am interested in backend with python.
 - 🌱 I am currently brushing up on my frontend knowledge
 - 📫 How to reach me zentenosessa@gmail.com
